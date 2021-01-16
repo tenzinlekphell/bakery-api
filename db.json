@@ -1,0 +1,32 @@
+{
+    "bakeries": [
+        {
+            "id": 0,
+            "name": "Johny's Sweet Shop",
+            "website": "www.jsweets.com",
+            "location": [
+                {
+                    "locationid": "0",
+                    "street": "Yonge",
+                    "number": "1200",
+                    "city": "Toronto",
+                    "country": "Canada"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Jenny's Pancakes and Savouries",
+            "website": "www.jenny's.com",
+            "location": [
+                {
+                    "locationid": "1",
+                    "street": "New Hampshire",
+                    "number": "180",
+                    "city": "MadeUpVille",
+                    "country": "Made Nation"
+                }
+            ]
+        }
+    ]
+}
