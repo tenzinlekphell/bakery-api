@@ -4,30 +4,13 @@
             "id": 0,
             "name": "Johny's Sweet Shop",
             "website": "www.jsweets.com",
-            "LOCATION": "1200 Yonge St, Toronto, ON",
-            "location": [
-                {
-                    "locationid": "0",
-                    "street": "Yonge",
-                    "number": "1200",
-                    "city": "Toronto",
-                    "country": "Canada"
-                }
-            ]
+            "location": "1200 Yonge St, Toronto, ON"
         },
         {
             "id": 1,
             "name": "Jenny's Pancakes and Savouries",
             "website": "www.jenny's.com",
-            "location": [
-                {
-                    "locationid": "1",
-                    "street": "New Hampshire",
-                    "number": "180",
-                    "city": "MadeUpVille",
-                    "country": "Made Nation"
-                }
-            ]
+            "location": "1 Wellesley St.East, Toronto, ON"
         }
     ]
 }
