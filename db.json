@@ -4,6 +4,7 @@
             "id": 0,
             "name": "Johny's Sweet Shop",
             "website": "www.jsweets.com",
+            "LOCATION": "1200 Yonge St, Toronto, ON",
             "location": [
                 {
                     "locationid": "0",
