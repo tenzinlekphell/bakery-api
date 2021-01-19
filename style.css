@@ -6,6 +6,12 @@
     width: 28%;
 }
 
+.main__profile-name, 
+.main__profile-website,
+.main__profile-location {
+    font-weight: bold;
+}
+
 /*!
  * Bootswatch v4.5.3
  * Homepage: https://bootswatch.com
